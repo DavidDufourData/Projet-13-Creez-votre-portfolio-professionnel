@@ -2,6 +2,10 @@
 
 ## Contexte et objectifs
 
+L'entreprise Aéroworld cherche un profil de data analyst confirmé qui soit intéressé par le management d’une équipe et par l’innovation.  
+L'entreprise en question souhaite analyser les portfolios de nos candidats avant de les rencontrer en entretien.  
+Je dois mettre en place un portfolio réflexif et visuel présentant mon profil et démontrant la maîtrise des compétences attendues.  
+
 L’objectif final du parcours est de créer un portfolio professionnel regroupant l’ensemble des projets réalisés, mettant en valeur les compétences acquises et offrant un support clair aux recruteurs.
 
 ## Soft Skills
@@ -17,7 +21,9 @@ L’objectif final du parcours est de créer un portfolio professionnel regroupa
 - Mise en avant de résultats analytiques  
 
 ## Outils utilisés
-- GitHub  
+- GitHub
+- PowerBI
+- Joom
 - Markdown  
 - Outils de présentation (PowerPoint, Canva)
 
