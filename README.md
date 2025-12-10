@@ -23,7 +23,7 @@ L’objectif final du parcours est de créer un portfolio professionnel regroupa
 ## Outils utilisés
 - GitHub
 - PowerBI
-- Joom
+- Loom
 - Markdown  
 - Outils de présentation (PowerPoint, Canva)
 
