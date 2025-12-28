@@ -98,7 +98,7 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
 >
 
 ## Visuels du projet : Diagramme de gantt  
-![Diagramme de Gantt](https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/img/Diagramme de Gantt.png)
+![Diagramme%20de%20Gantt.png](https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/img/Diagramme%20de%20Gantt.png)
 
 ## Visuels du projet : Graphiques variés d'analyse créés dans l'outil Tableau
 !(https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/img/graph%20d%C3%A9taill%C3%A9s.png)
