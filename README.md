@@ -100,19 +100,19 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
 ## Visuels du projet : Diagramme de gantt  
 ![Diagramme%20de%20Gantt.png](https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/img/Diagramme%20de%20Gantt.png)
 
-## Visuels du projet : Graphiques variés d'analyse créés dans l'outil Tableau
-!(https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/img/graph%20d%C3%A9taill%C3%A9s.png)
+## Visuels du projet : Graphiques variés d'analyse créés dans Power BI
+![graph%20d%C3%A9taill%C3%A9s.png](https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/img/graph%20d%C3%A9taill%C3%A9s.png)
 
 ## Visuels du projet : Tableau de bord de veille métier et technologique  
-![P13_S02](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S02.jpg)  
+![capture%20veille%20m%C3%A9tier.png](https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/img/capture%20veille%20m%C3%A9tier.png)  
 
-## Visuels du projet : Tableau de bord du profil du candidat (CV)  
-![P13_S03](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S03.jpg)  
+## Visuels du projet : CV du profil du candidat  
+![CV%20comp%C3%A9tences%20projets.png](https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/img/CV%20comp%C3%A9tences%20projets.png)  
 
 ## Visuels du projet : Vidéo de formation sur l'outil Tableau  
-![P13_S04](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S04.jpg)  
+  
 
-## Visuels du projet : Documentation technique d'aide à la création de graphiques sur l'outil Tableau  
-![P13_S05](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S05.jpg) 
+## Visuels du projet : Documentation technique d'aide à la création de graphiques sur Power BI
+![pas%20%C3%A0%20pas%20creation%20graph.png](https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/img/pas%20%C3%A0%20pas%20creation%20graph.png) 
 
 
