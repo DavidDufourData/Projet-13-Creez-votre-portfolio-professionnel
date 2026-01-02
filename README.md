@@ -57,6 +57,8 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
 
 4. **Stratégie de Veille technologique / méthodologique :**
    - Exemple de veille technologique/méthodologique pertinente pour AEROWORLD
+  
+<a href="https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/Mock%20up%20Veille%20m%C3%A9tier.pdf" target="_blank">**Mock-up Veille Technologique** </a>
 
 <a href="https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/BI_veille_metier_aeroworld.pbix" target="_blank">**Tableau de bord Power BI Veille Technologique** </a>
 
@@ -71,8 +73,10 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
 6. **Projets réalisés par le candidat illustrant les compétences clés requises pour le poste**
    - création d'une matrice de compétences exhaustives des projets réalisés par le candidat
    - segment de filtres pour identifier les compétences et projets en lien avec les attentes d'AEROWORLD
+  
+<a href="https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/Mock%20up%20CV.pdf">**Mock-up CV Power BI** </a>
 
-<a href="https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/CV%20de%20comp%C3%A9tences%20projets.pbix">**Matrice de compétences projet du candidat :** </a>
+<a href="https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/CV%20de%20comp%C3%A9tences%20projets.pbix">**CV & projets du candidat :** </a>
 
 ---
 
