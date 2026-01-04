@@ -66,7 +66,7 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
    - rendre les utilisateurs autonomes sur la création de graphiques avancés avec Power BI
    - création de vidéos tutorielles et d'une procédure pas à pas
     
-<a href="" target="_blank">**Vidéo de formation Power BI** </a>
+<a href="https://www.loom.com/share/8d71e2acbd73457880ec73612bf5b831" target="_blank">**Vidéo de formation Power BI** </a>
 
 <a href="https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/Guide%20de%20cr%C3%A9ation%20de%20graphiques%20avec%20Power%20BI.pdf">**Guide de création de graphiques Power BI** </a>
 
